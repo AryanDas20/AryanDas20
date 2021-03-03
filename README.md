@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - _ 📫 I deploy My Websites In Netlify 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c9636386-1bac-4321-ac59-1b4e475f5c12/deploy-status)](https://app.netlify.com/sites/aryandas/deploys)
 - :apple: I Currently study In class IX at :books: kendriya vidyalaya. 
+- ![alt text](https://avatars.githubusercontent.com/u/52379911?s=400&u=8be10a7e7c0c0fb1cdab187ed5d4e885e78a4c06&v=4)
 
 
