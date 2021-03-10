@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - ![PROFILE OF : ARYAN DAS](https://avatars.githubusercontent.com/u/52379911?s=200&u=8be10a7e7c0c0fb1cdab187ed5d4e885e78a4c06&v=4)
 -PROFILE PICTURE OF ARYAN DAS
 
+[CLICK THIS LINK TO SEE MY CERTIFICATES](https://github.com/AryanDas20/Resume)
 
