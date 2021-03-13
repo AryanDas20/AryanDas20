@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 
 [CLICK THIS LINK TO SEE MY CERTIFICATES](https://github.com/AryanDas20/Resume)
 
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AryanDas20)
