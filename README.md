@@ -11,7 +11,5 @@ Here are some ideas to get you started:
 - :apple: I Currently study In class IX at :books: kendriya vidyalaya. 
 - ![PROFILE OF : ARYAN DAS](https://avatars.githubusercontent.com/u/52379911?s=200&u=8be10a7e7c0c0fb1cdab187ed5d4e885e78a4c06&v=4)
 -PROFILE PICTURE OF ARYAN DAS
-
 [CLICK THIS LINK TO SEE MY CERTIFICATES](https://github.com/AryanDas20/Resume)
-
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/AryanDas20)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=radical)
