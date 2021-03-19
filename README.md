@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 [CLICK THIS LINK TO SEE MY CERTIFICATES](https://github.com/AryanDas20/Resume)
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://aryandas.netlify.app/)
 
