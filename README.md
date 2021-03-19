@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - ![PROFILE OF : ARYAN DAS](https://avatars.githubusercontent.com/u/52379911?s=200&u=8be10a7e7c0c0fb1cdab187ed5d4e885e78a4c06&v=4)
 -PROFILE PICTURE OF ARYAN DAS
 [CLICK THIS LINK TO SEE MY CERTIFICATES](https://github.com/AryanDas20/Resume)
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=radical)
+[Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
