@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://aryandas.netlify.app/)
-![](file:///C:/Dev/Aryan_HTML/qrcode_aryandas.netlify.app%20(1).png)
+![img](file:///C:/Dev/Aryan_HTML/qrcode_aryandas.netlify.app%20(1).png)
