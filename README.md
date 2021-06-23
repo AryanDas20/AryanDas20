@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://aryandas.netlify.app/)
-![img](file:///C:/Dev/Aryan_HTML/qrcode_aryandas.netlify.app%20(1).png)
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
