@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 **AryanDas20/AryanDas20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**I am currently studying in class 10**
 Here are some ideas to get you started:
 
 - _ 🔭 I’m currently working on php projects
