@@ -136,34 +136,20 @@ AI workout trainer, made in my first B.Tech semester.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AryanDas20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00d9f5&text_color=c9d1d9&ring_color=7b2ff7&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanDas20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/main/assets/stats.svg" width="58%" alt="GitHub stats"/> <img src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/main/assets/langs.svg" width="40%" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AryanDas20&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9f5&fire=00f5a0&currStreakLabel=00f5a0&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" height="170"/>
+<img src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/main/assets/trophies.svg" width="100%" alt="Achievements"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/main/assets/activity.svg" width="100%" alt="Contribution matrix"/>
+
+<br/>
+
 <img src="https://leetcard.jacoblin.cool/aryandas_2005?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode" height="170"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AryanDas20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanDas20&theme=tokyo-night&bg_color=0d1117&color=00f5a0&line=00d9f5&point=7b2ff7&area=true&area_color=00d9f5&hide_border=true&custom_title=Aryan%20Das%20%E2%80%A2%20Contribution%20Graph" alt="activity graph" width="100%"/>
-
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/main/assets/divider.svg" width="100%" alt=""/></div>
-
-## `> snake --eat-contributions`
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanDas20/AryanDas20/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanDas20/AryanDas20/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/output/github-snake-dark.svg" />
-</picture>
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/AryanDas20/AryanDas20/main/assets/divider.svg" width="100%" alt=""/></div>
