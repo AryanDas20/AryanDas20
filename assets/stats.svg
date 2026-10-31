@@ -13,9 +13,9 @@
 <text x="20" y="30" class="t">&gt; GITHUB.STATS // AryanDas20<tspan class="blink">_</tspan></text>
 <g transform="translate(20,52)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
 <text x="14" y="24" class="l">COMMITS (1Y)</text>
-<text x="14" y="56" class="v" opacity="0">32<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.2s" dur="0.5s" fill="freeze"/></text>
+<text x="14" y="56" class="v" opacity="0">53<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.2s" dur="0.5s" fill="freeze"/></text>
 <rect x="14" y="66" width="142" height="4" rx="2" fill="#16243a"/>
-<rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="9" begin="0.2s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(202,52)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
+<rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="15" begin="0.2s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(202,52)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
 <text x="14" y="24" class="l">PULL REQUESTS</text>
 <text x="14" y="56" class="v" opacity="0">4<animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.35s" dur="0.5s" fill="freeze"/></text>
 <rect x="14" y="66" width="142" height="4" rx="2" fill="#16243a"/>
@@ -25,13 +25,13 @@
 <rect x="14" y="66" width="142" height="4" rx="2" fill="#16243a"/>
 <rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="4" begin="0.5s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(20,144)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
 <text x="14" y="24" class="l">STARS EARNED</text>
-<text x="14" y="56" class="v" opacity="0">26<animate attributeName="opacity" from="0" to="1" begin="0.6499999999999999s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.6499999999999999s" dur="0.5s" fill="freeze"/></text>
+<text x="14" y="56" class="v" opacity="0">30<animate attributeName="opacity" from="0" to="1" begin="0.6499999999999999s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.6499999999999999s" dur="0.5s" fill="freeze"/></text>
 <rect x="14" y="66" width="142" height="4" rx="2" fill="#16243a"/>
-<rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="37" begin="0.6499999999999999s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(202,144)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
+<rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="43" begin="0.6499999999999999s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(202,144)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
 <text x="14" y="24" class="l">REPOSITORIES</text>
-<text x="14" y="56" class="v" opacity="0">25<animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.8s" dur="0.5s" fill="freeze"/></text>
+<text x="14" y="56" class="v" opacity="0">27<animate attributeName="opacity" from="0" to="1" begin="0.8s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.8s" dur="0.5s" fill="freeze"/></text>
 <rect x="14" y="66" width="142" height="4" rx="2" fill="#16243a"/>
-<rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="71" begin="0.8s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(384,144)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
+<rect x="14" y="66" width="0" height="4" rx="2" fill="url(#g)"><animate attributeName="width" from="0" to="77" begin="0.8s" dur="1.1s" fill="freeze"/></rect></g><g transform="translate(384,144)"><rect width="170" height="80" rx="10" fill="#0b1424" stroke="#00d9f5" stroke-opacity=".18"/>
 <text x="14" y="24" class="l">FOLLOWERS</text>
 <text x="14" y="56" class="v" opacity="0">11<animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" begin="0.95s" dur="0.5s" fill="freeze"/></text>
 <rect x="14" y="66" width="142" height="4" rx="2" fill="#16243a"/>
