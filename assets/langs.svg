@@ -11,19 +11,19 @@
 </style><clipPath id="cl"><rect width="420" height="244" rx="14"/></clipPath></defs>
 <g clip-path="url(#cl)"><rect width="420" height="244" fill="#070b14"/>
 <text x="20" y="30" class="t">&gt; TOP.LANGUAGES<tspan class="blink">_</tspan></text>
-<rect x="20.0" y="48" width="0" height="10" fill="#f1e05a"><animate attributeName="width" from="0" to="177.4" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="197.4" y="48" width="0" height="10" fill="#e34c26"><animate attributeName="width" from="0" to="123.8" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="321.2" y="48" width="0" height="10" fill="#663399"><animate attributeName="width" from="0" to="56.3" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="377.5" y="48" width="0" height="10" fill="#3572A5"><animate attributeName="width" from="0" to="14.9" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="392.4" y="48" width="0" height="10" fill="#DA5B0B"><animate attributeName="width" from="0" to="4.0" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="396.4" y="48" width="0" height="10" fill="#4F5D95"><animate attributeName="width" from="0" to="3.6" begin="0.2s" dur="1s" fill="freeze"/></rect><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+<rect x="20.0" y="48" width="0" height="10" fill="#f1e05a"><animate attributeName="width" from="0" to="178.6" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="198.6" y="48" width="0" height="10" fill="#e34c26"><animate attributeName="width" from="0" to="123.1" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="321.7" y="48" width="0" height="10" fill="#663399"><animate attributeName="width" from="0" to="55.9" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="377.6" y="48" width="0" height="10" fill="#3572A5"><animate attributeName="width" from="0" to="14.8" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="392.4" y="48" width="0" height="10" fill="#DA5B0B"><animate attributeName="width" from="0" to="4.0" begin="0.2s" dur="1s" fill="freeze"/></rect><rect x="396.4" y="48" width="0" height="10" fill="#4F5D95"><animate attributeName="width" from="0" to="3.6" begin="0.2s" dur="1s" fill="freeze"/></rect><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
 <circle cx="26" cy="88" r="5" fill="#f1e05a"/><text x="40" y="92" class="s">JavaScript</text>
 <rect x="150" y="83" width="190" height="6" rx="3" fill="#16243a"/>
-<rect x="150" y="83" width="0" height="6" rx="3" fill="#f1e05a"><animate attributeName="width" from="0" to="88.7" begin="0.3s" dur="1s" fill="freeze"/></rect>
-<text x="400" y="92" text-anchor="end" class="l">46.7%</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.4s" fill="freeze"/>
+<rect x="150" y="83" width="0" height="6" rx="3" fill="#f1e05a"><animate attributeName="width" from="0" to="89.3" begin="0.3s" dur="1s" fill="freeze"/></rect>
+<text x="400" y="92" text-anchor="end" class="l">47.0%</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.4s" fill="freeze"/>
 <circle cx="26" cy="112" r="5" fill="#e34c26"/><text x="40" y="116" class="s">HTML</text>
 <rect x="150" y="107" width="190" height="6" rx="3" fill="#16243a"/>
-<rect x="150" y="107" width="0" height="6" rx="3" fill="#e34c26"><animate attributeName="width" from="0" to="61.9" begin="0.42s" dur="1s" fill="freeze"/></rect>
-<text x="400" y="116" text-anchor="end" class="l">32.6%</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.4s" fill="freeze"/>
+<rect x="150" y="107" width="0" height="6" rx="3" fill="#e34c26"><animate attributeName="width" from="0" to="61.6" begin="0.42s" dur="1s" fill="freeze"/></rect>
+<text x="400" y="116" text-anchor="end" class="l">32.4%</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.54s" dur="0.4s" fill="freeze"/>
 <circle cx="26" cy="136" r="5" fill="#663399"/><text x="40" y="140" class="s">CSS</text>
 <rect x="150" y="131" width="190" height="6" rx="3" fill="#16243a"/>
-<rect x="150" y="131" width="0" height="6" rx="3" fill="#663399"><animate attributeName="width" from="0" to="28.1" begin="0.54s" dur="1s" fill="freeze"/></rect>
-<text x="400" y="140" text-anchor="end" class="l">14.8%</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6599999999999999s" dur="0.4s" fill="freeze"/>
+<rect x="150" y="131" width="0" height="6" rx="3" fill="#663399"><animate attributeName="width" from="0" to="28.0" begin="0.54s" dur="1s" fill="freeze"/></rect>
+<text x="400" y="140" text-anchor="end" class="l">14.7%</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6599999999999999s" dur="0.4s" fill="freeze"/>
 <circle cx="26" cy="160" r="5" fill="#3572A5"/><text x="40" y="164" class="s">Python</text>
 <rect x="150" y="155" width="190" height="6" rx="3" fill="#16243a"/>
 <rect x="150" y="155" width="0" height="6" rx="3" fill="#3572A5"><animate attributeName="width" from="0" to="7.4" begin="0.6599999999999999s" dur="1s" fill="freeze"/></rect>
