@@ -27,7 +27,7 @@
 <g transform="translate(80.0,38) scale(1.25)"><animateTransform attributeName="transform" type="translate" values="80.0 38;80.0 33;80.0 38" dur="3s" begin="0.8s" repeatCount="indefinite" additive="replace"/>
 <g transform="scale(1.25)" fill="#c9d3df"><path d="M-12 -18H12V-6A12 12 0 0 1 -12 -6Z"/><rect x="-3" y="6" width="6" height="8"/><rect x="-10" y="14" width="20" height="4" rx="2"/>
 <path d="M-12 -14H-18V-8A8 8 0 0 0 -10 0M12 -14H18V-8A8 8 0 0 1 10 0" fill="none" stroke="#c9d3df" stroke-width="3"/></g></g>
-<text x="80.0" y="88" text-anchor="middle" style="font:800 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif" fill="#e6f1ff">35</text>
+<text x="80.0" y="88" text-anchor="middle" style="font:800 22px 'Segoe UI','Helvetica Neue',Arial,sans-serif" fill="#e6f1ff">38</text>
 <text x="80.0" y="104" text-anchor="middle" class="l">STARS</text>
 <text x="80.0" y="118" text-anchor="middle" style="font:700 10px 'Fira Code','JetBrains Mono','Courier New',monospace;letter-spacing:2px" fill="#c9d3df">SILVER</text></g><g transform="translate(536.0,48)"><rect width="160.0" height="124" rx="12" fill="#0b1424" stroke="#ffd24a" stroke-opacity=".55"/>
 <g transform="translate(80.0,38) scale(1.25)"><animateTransform attributeName="transform" type="translate" values="80.0 38;80.0 33;80.0 38" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite" additive="replace"/>
